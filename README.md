@@ -6,11 +6,11 @@ Src of side project description :
 
 2. DownloadHelperProgressbar : 
 
-Packaged donwloadHelper(with AsyncTask) and show download percent with progressbar.
+   Packaged donwloadHelper(with AsyncTask) and show download percent with progressbar.
 
-Can start and stop download file
+   Can start and stop download file
 
-files description :
+   files description :
 
 1. 
  - drawable > custom_progressbar_horizontal.xml 
