@@ -23,3 +23,8 @@ Demo result :
 1.
 
 2.
+
+References :
+
+ - donwload asyncTask : https://www.itread01.com/content/1546513758.html
+ - customer progressbar : https://stackoverflow.com/questions/22177006/android-horizontal-progress-bar
