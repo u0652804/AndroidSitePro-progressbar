@@ -27,11 +27,11 @@ Demo result :
 
 1.
 
-https://github.com/u0652804/AndroidSitePro-progressbar/blob/main/demo/demo1-1.png
+![Android Demo](https://github.com/u0652804/AndroidSitePro-progressbar/blob/main/demo/demo1-1.png)
 
 2.
 
-https://github.com/u0652804/AndroidSitePro-progressbar/blob/main/demo/demo2-1.png
+![Android Demo](https://github.com/u0652804/AndroidSitePro-progressbar/blob/main/demo/demo2-1.png)
 
 References :
 
