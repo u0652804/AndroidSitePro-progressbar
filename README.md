@@ -1,10 +1,14 @@
 # AndroidSitePro-progressbar
 
-Src description :
+Src of side project description :
 
 1. CustomerProgressbar : Test customer progressbar to loop show 0 > 35 > 100 percent
 
-2. DownloadHelperProgressbar : Packaged donwloadHelper(with AsyncTask) and show download percent with progressbar.
+2. DownloadHelperProgressbar : 
+
+Packaged donwloadHelper(with AsyncTask) and show download percent with progressbar.
+
+Can start and stop download file
 
 files description :
 
@@ -16,7 +20,8 @@ files description :
  - layout > activity_main.xml
 
 2. 
-
+ - PermissionHelper : help to check and grant permissions such as R/W storage
+ - DownloadHelper : use AsyncTask to download file to local and call callback
 
 Demo result :
 
